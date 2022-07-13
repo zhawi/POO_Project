@@ -1,0 +1,34 @@
+RF Gestor N Bruce L.
+CF 1
+RC 1 Alice M.
+CC 1
+RI 1 Batatas fritas
+N
+CI 1 1
+CC 1
+CF 1
+RL Lisboa
+G armazem.save
+L armazem.save
+RF Carregador N Aaron R.
+RF Condutor N Patrick M.
+RD 1 1
+2 3
+1 42
+
+CI 1 1
+CC 1
+CF 1
+CF 2
+CF 3
+RL Porto
+RE 1 2
+3 2
+1 40
+
+CI 1 1
+CC 1
+CF 1
+CF 2
+CF 3
+G armazem.save

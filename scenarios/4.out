@@ -1,0 +1,134 @@
+Cliente inexistente.
+Cliente inexistente.
+Cliente inexistente.
+Funcionário inexistente.
+Funcionário inexistente.
+Ficheiro lido com sucesso.
+Alice M.
+Bruce L.
+Items:
+  1 (2) [N] Batatas fritas
+Depósitos:
+  1 (Lisboa)
+Entregas:
+  1 (Porto)
+Tom B.
+Carl S.
+Items:
+  1 (0) [S] Batatas Fritas
+  2 (0) [P] Dinamite
+  3 (0) [N] Garrafa de água
+Depósitos:
+Entregas:
+Ray L.
+Bruce L.
+Items:
+  1 (0) [N] Batatas Fritas
+  2 (0) [P] Dinamite
+  3 (0) [S] Garrafa de água
+Depósitos:
+Entregas:
+Bruce L.
+Gestor
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+  1 1 (Porto) Alice M.
+Aaron R.
+Carregador
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+  1 1 (Porto) Alice M.
+Item inexistente.
+Quantidade insuficiente.
+Quantidade insuficiente.
+Quantidade insuficiente.
+Quantidade insuficiente.
+Alice M.
+Bruce L.
+Items:
+  1 (2) [N] Batatas fritas
+Depósitos:
+  1 (Lisboa)
+Entregas:
+  1 (Porto)
+Tom B.
+Carl S.
+Items:
+  1 (0) [S] Batatas Fritas
+  2 (0) [P] Dinamite
+  3 (0) [N] Garrafa de água
+Depósitos:
+Entregas:
+Ray L.
+Bruce L.
+Items:
+  1 (0) [N] Batatas Fritas
+  2 (0) [P] Dinamite
+  3 (0) [S] Garrafa de água
+Depósitos:
+Entregas:
+Bruce L.
+Gestor
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+  1 1 (Porto) Alice M.
+Aaron R.
+Carregador
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+  1 1 (Porto) Alice M.
+Patrick M.
+Condutor
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+  1 1 (Porto) Alice M.
+Carl S.
+Gestor
+Normal
+Depósitos:
+Entregas:
+Jane G.
+Carregador
+Normal
+Depósitos:
+Entregas:
+Jane G.
+Condutor
+Perigoso
+Depósitos:
+Entregas:
+Funcionário inexistente.
+2 [Normal] Batatas fritas
+Depósitos:
+  1 42
+Entregas:
+  1 40
+0 [Seguro] Batatas Fritas
+Depósitos:
+Entregas:
+0 [Perigoso] Dinamite
+Depósitos:
+Entregas:
+0 [Normal] Garrafa de água
+Depósitos:
+Entregas:
+0 [Normal] Batatas Fritas
+Depósitos:
+Entregas:
+0 [Perigoso] Dinamite
+Depósitos:
+Entregas:
+0 [Seguro] Garrafa de água
+Depósitos:
+Entregas:
+Ficheiro gravado com sucesso.

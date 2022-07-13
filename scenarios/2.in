@@ -1,0 +1,40 @@
+L armazem.save
+RF Gestor N Carl S.
+RF Carregador S Aaron R.
+RF Carregador N Jane G.
+RF Condutor P Jane G.
+RC 4 Alice M.
+RC 4 Tom B.
+RC 1 Ray L.
+RL Lisboa
+RL Almada
+RI 4 Batatas Fritas
+N
+RI 2 Batatas Fritas
+S
+RI 2 Dinamite
+P
+RI 2 Garrafa de água
+N
+RI 3 Batatas Fritas
+N
+RI 3 Dinamite
+P
+RI 3 Garrafa de água
+S
+RD 3 3
+6 3
+3 20
+2 5
+
+RD 3 3
+6 7
+3 20
+2 5
+
+RD 3 3
+5 7
+3 20
+2 5
+
+G armazem.save

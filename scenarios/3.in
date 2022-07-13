@@ -1,0 +1,35 @@
+CC 1
+CC 2
+CC 3
+CF 1
+CF 2
+CF 3
+CF 4
+CF 5
+CF 6
+CF 7
+CI 1 1
+CI 2 1
+CI 2 2
+CI 2 3
+CI 3 1
+CI 3 2
+CI 3 3
+L armazem.save
+CC 1
+CC 2
+CC 3
+CF 1
+CF 2
+CF 3
+CF 4
+CF 5
+CF 6
+CF 7
+CI 1 1
+CI 2 1
+CI 2 2
+CI 2 3
+CI 3 1
+CI 3 2
+CI 3 3

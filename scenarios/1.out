@@ -1,0 +1,99 @@
+Funcionário registado com o identificador 1.
+Bruce L.
+Gestor
+Normal
+Depósitos:
+Entregas:
+Cliente registado com o identificador 1.
+Alice M.
+Bruce L.
+Items:
+Depósitos:
+Entregas:
+Item registado para o cliente 1 com o identificador 1.
+0 [Normal] Batatas fritas
+Depósitos:
+Entregas:
+Alice M.
+Bruce L.
+Items:
+  1 (0) [N] Batatas fritas
+Depósitos:
+Entregas:
+Bruce L.
+Gestor
+Normal
+Depósitos:
+Entregas:
+Local registado com o identificador 1.
+Ficheiro gravado com sucesso.
+Ficheiro lido com sucesso.
+Funcionário registado com o identificador 2.
+Funcionário registado com o identificador 3.
+Depósito registado com o identificador 1.
+42 [Normal] Batatas fritas
+Depósitos:
+  1 42
+Entregas:
+Alice M.
+Bruce L.
+Items:
+  1 (42) [N] Batatas fritas
+Depósitos:
+  1 (Lisboa)
+Entregas:
+Bruce L.
+Gestor
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+Aaron R.
+Carregador
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+Patrick M.
+Condutor
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+Local registado com o identificador 2.
+Entrega registada com o identificador 1.
+2 [Normal] Batatas fritas
+Depósitos:
+  1 42
+Entregas:
+  1 40
+Alice M.
+Bruce L.
+Items:
+  1 (2) [N] Batatas fritas
+Depósitos:
+  1 (Lisboa)
+Entregas:
+  1 (Porto)
+Bruce L.
+Gestor
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+  1 1 (Porto) Alice M.
+Aaron R.
+Carregador
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+  1 1 (Porto) Alice M.
+Patrick M.
+Condutor
+Normal
+Depósitos:
+  1 1 (Lisboa) Alice M.
+Entregas:
+  1 1 (Porto) Alice M.
+Ficheiro gravado com sucesso.
